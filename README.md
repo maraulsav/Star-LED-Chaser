@@ -40,3 +40,14 @@ Schematic
 PCB
 <img width="1440" height="900" alt="Screenshot 2025-12-26 at 07 26 27" src="https://github.com/user-attachments/assets/cf92ac64-44a5-4873-ad18-bb1869e07d62" />
 
+## BOM
+Here should be everything that u need to make this keychain
+- 1x NE555P (555 TImer)
+- 1x CD4017 (Integrated Circuit)
+- 10x LEDs
+- 2x Capacitor
+- 2x Resistor
+- 1x Variable Resistor
+- 1x Slide witch
+- 1x Battery Socket
+
